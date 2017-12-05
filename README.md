@@ -1,4 +1,4 @@
-iOS/macOS penetration testing cheatsheet
+# iOS/macOS penetration testing cheatsheet
 
 | Action | macOS | Linux | Win | iOS w/JB |
 | --- | --- | --- | --- | --- |
@@ -18,7 +18,7 @@ iOS/macOS penetration testing cheatsheet
 | `idb` | [idb](https://github.com/dmayer/idb) | [idb](https://github.com/dmayer/idb) | --- | --- |
 
 
-AppSign / Rebuild / Resign / Inject / Useful tools
+# AppSign / Rebuild / Resign / Inject / Useful tools
 
 | Tool | Description | Link |
 | --- | --- | --- |
@@ -52,12 +52,30 @@ AppSign / Rebuild / Resign / Inject / Useful tools
 
 
 
-Jailbreak
-[Jailbreak Chart](https://www.reddit.com/r/jailbreak/wiki/escapeplan/guides/jailbreakcharts)
-[Can I Jailbreak?](https://canijailbreak.com/)
+# Jailbreak
+
+| Jailbreak check |
+| --- |
+| [Jailbreak Chart](https://www.reddit.com/r/jailbreak/wiki/escapeplan/guides/jailbreakcharts) |
+| [Can I Jailbreak?](https://canijailbreak.com/) |
+
+| Repos |
+| --- |
+| [http://cydia.iphonecake.com](http://cydia.iphonecake.com) |
+| [http://apt.saurik.com/](http://apt.saurik.com/) |
+| [http://repo.nesolabs.de/](http://repo.nesolabs.de/) |
+| [https://build.frida.re/](https://build.frida.re/) |
+| [http://appsec-labs.com/cydia/](http://appsec-labs.com/cydia/) |
+| [http://cydia.zodttd.com/repo/cydia/](http://cydia.zodttd.com/repo/cydia/) |
+| [http://mobiletools.mwrinfosecurity.com/cydia/](http://mobiletools.mwrinfosecurity.com/cydia/) |
+| [http://repo666.ultrasn0w.com/](http://repo666.ultrasn0w.com/) |
+| [http://apt.thebigboss.org/repofiles/cydia/](http://apt.thebigboss.org/repofiles/cydia/) |
+| [http://cydia.radare.org/](http://cydia.radare.org/) |
+| [http://apt.modmyi.com/](http://apt.modmyi.com/) |
+| [http://coolstar.org/publicrepo/](http://coolstar.org/publicrepo/) |
 
 
-Slides and articles and links
+# Slides and articles and links
 
 | Name | Link |
 | --- | --- |
@@ -73,3 +91,5 @@ Slides and articles and links
 Author: [@ansjdnakjdnajkd](https://twitter.com/ansjdnakjdnajkd)
 
 Do you want to add or fix? - Write to me or pull request!
+
+
