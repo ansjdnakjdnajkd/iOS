@@ -18,41 +18,7 @@
 | `idb` | [idb](https://github.com/dmayer/idb) | [idb](https://github.com/dmayer/idb) | --- | --- |
 
 
-# AppSign / Rebuild / Resign / Inject / Useful tools
-
-| Tool | Description | Link |
-| --- | --- | --- |
-| `Node Resign` | Xcode Project | [Node Resign](https://github.com/nowsecure/node-applesign) |
-| `Frida Gadget` | Framework | [Frida Gadget](https://www.frida.re/docs/ios/) |
-| `Runtime Headers` | Xcode Project | [Runtime Headers](https://github.com/nst/iOS-Runtime-Headers) |
-| `SSL Killswitch 2` | Jailbreak(+) | [SSL Killswitch 2](https://github.com/nabla-c0d3/ssl-kill-switch2) |
-| `IPA Patch` | Xcode Project | [IPA Patch](https://github.com/Naituw/IPAPatch) |
-| `Clutch` | Jailbreak(+) | [Clutch](https://github.com/KJCracks/Clutch) |
-| `Theos` | Project | [Theos](https://github.com/theos/theos) |
-| `iOS App Signer` | Xcode Project | [iOS App Signer](https://github.com/DanTheMan827/ios-app-signer) |
-| `AppAddict` | App | [AppAddict](https://www.appaddict.org/tools.php) |
-| `Dumpdecrypted` | Project | [Dumpdecrypted](https://github.com/stefanesser/dumpdecrypted) |
-| `Rasticrac` | Jailbreak(+) | [Rasticrac](https://github.com/easonoutlook/Rasticrac) |
-| `Resign` | Xcode Project | [Regisn](https://github.com/vtky/resign) |
-| `Cycript` | Framework | [Frida+Cycript](https://github.com/nowsecure/frida-cycript) & [Site](http://www.cycript.org/) |
-| `CydiaSubstrate` | Framework | [Site](http://www.cydiasubstrate.com/) & [.deb file](http://apt.saurik.com/debs/mobilesubstrate_0.9.6301_iphoneos-arm.deb) |
-| `Reveal app` | Project | [Reveal app](http://revealapp.com/) |
-| `Impactor` | App | [Cydia Impactor](http://www.cydiaimpactor.com/) |
-| `iFunBox` | App | [iFunBox](http://www.i-funbox.com/) |
-| `IPA installer` | Xcode Project | [IPA installer](http://github.com/autopear/ipainstaller) |
-| `Download old version .ipa` | Manual how-to | [Lifehacker](https://lifehacker.com/download-old-versions-of-ios-apps-with-a-clever-workaro-1749950092) |
-| `iTunes w/app tab` | iTunes 12.6.3.6 | [Apple Support](https://support.apple.com/en-us/HT208079) |
-| `JSPatch` | Framework | [JSPatch](https://github.com/bang590/JSPatch) |
-| `Appdb` | Download&resign .ipa | [Appdb](appdb.store) |
-| `iphonecake` | Download&resign .ipa | [iphonecake](https://www.iphonecake.com/) |
-| `4pda` | Download&resign .ipa | [4pda](https://4pda.ru/) |
-| `BundleID` | Jailbreak(+) | [BundleID](https://www.reddit.com/r/iOSthemes/comments/34v57e/how_to_find_an_apps_bundle_id/) |
-| `FRAPL` | Framework | [FRAPL](https://github.com/FriedAppleTeam/FRAPL) |
-| `IPSW` | Download Firmware | [IPSW](https://ipsw.me/) |
-
-
-
-# Jailbreak
+## Jailbreak
 
 | Jailbreak check |
 | --- |
@@ -75,7 +41,77 @@
 | [http://coolstar.org/publicrepo/](http://coolstar.org/publicrepo/) |
 
 
-# Slides and articles and links
+## AppSign / Rebuild / Resign / Inject / Useful tools
+
+![Schema](https://github.com/ansjdnakjdnajkd/iOS/blob/master/Misc/schema.png)
+
+### Download and decrypt
+
+| Tool | Description | Link |
+| --- | --- | --- |
+| `iFunBox` | App | [iFunBox](http://www.i-funbox.com/) |
+| `Appdb` | Download&resign .ipa | [Appdb](appdb.store) |
+| `iphonecake` | Download&resign .ipa | [iphonecake](https://www.iphonecake.com/) |
+| `4pda` | Download&resign .ipa | [4pda](https://4pda.ru/) |
+| `iTunes w/app tab` | iTunes 12.6.3.6 | [Apple Support](https://support.apple.com/en-us/HT208079) |
+| `Download old version .ipa` | Manual how-to | [Lifehacker](https://lifehacker.com/download-old-versions-of-ios-apps-with-a-clever-workaro-1749950092) |
+
+### Extract data
+
+| Tool | Description | Link |
+| --- | --- | --- |
+| `Rasticrac` | Jailbreak(+) | [Rasticrac](https://github.com/easonoutlook/Rasticrac) |
+| `Clutch` | Jailbreak(+) | [Clutch](https://github.com/KJCracks/Clutch) |
+
+### All in one (Inject > Repack > Resign > Upload)
+
+| Tool | Description | Link |
+| --- | --- | --- |
+| `IPA Patch` | Xcode Project | [IPA Patch](https://github.com/Naituw/IPAPatch) |
+| `Resign` | Xcode Project | [Regisn](https://github.com/vtky/resign) |
+
+
+### Inject framework
+
+| Tool | Description | Link |
+| --- | --- | --- |
+| `CydiaSubstrate` | Framework | [Site](http://www.cydiasubstrate.com/) & [.deb file](http://apt.saurik.com/debs/mobilesubstrate_0.9.6301_iphoneos-arm.deb) |
+| `Reveal app` | Project | [Reveal app](http://revealapp.com/) |
+| `JSPatch` | Framework | [JSPatch](https://github.com/bang590/JSPatch) |
+| `FRAPL` | Framework | [FRAPL](https://github.com/FriedAppleTeam/FRAPL) |
+| `Frida Gadget` | Framework | [Frida Gadget](https://www.frida.re/docs/ios/) |
+| `Cycript` | Framework | [Frida+Cycript](https://github.com/nowsecure/frida-cycript) & [Site](http://www.cycript.org/) |
+
+### Repack and resign binary
+
+| Tool | Description | Link |
+| --- | --- | --- |
+| `Node Resign` | Xcode Project | [Node Resign](https://github.com/nowsecure/node-applesign) |
+| `iOS App Signer` | Xcode Project | [iOS App Signer](https://github.com/DanTheMan827/ios-app-signer) |
+| `AppAddict` | App | [AppAddict](https://www.appaddict.org/tools.php) |
+
+### Upload and run on device
+
+| Tool | Description | Link |
+| --- | --- | --- |
+| `iFunBox` | App | [iFunBox](http://www.i-funbox.com/) |
+| `Impactor` | App | [Cydia Impactor](http://www.cydiaimpactor.com/) |
+| `IPA installer` | Xcode Project | [IPA installer](http://github.com/autopear/ipainstaller) |
+
+
+## Useful tools
+
+| Tool | Description | Link |
+| --- | --- | --- |
+| `Runtime Headers` | Xcode Project | [Runtime Headers](https://github.com/nst/iOS-Runtime-Headers) |
+| `SSL Killswitch 2` | Jailbreak(+) | [SSL Killswitch 2](https://github.com/nabla-c0d3/ssl-kill-switch2) |
+| `Theos` | Project | [Theos](https://github.com/theos/theos) |
+| `Dumpdecrypted` | Project | [Dumpdecrypted](https://github.com/stefanesser/dumpdecrypted) |
+| `BundleID` | Jailbreak(+) | [BundleID](https://www.reddit.com/r/iOSthemes/comments/34v57e/how_to_find_an_apps_bundle_id/) |
+| `IPSW` | Download Firmware | [IPSW](https://ipsw.me/) |
+
+
+## Slides and articles and links
 
 | Name | Link |
 | --- | --- |
