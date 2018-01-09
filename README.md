@@ -25,6 +25,7 @@
 | --- |
 | [Jailbreak Chart](https://www.reddit.com/r/jailbreak/wiki/escapeplan/guides/jailbreakcharts) |
 | [Can I Jailbreak?](https://canijailbreak.com/) |
+| [Jailbreak list](http://www.iosemulatorspot.com/jailbreak-ipa/) |
 
 | Repos |
 | --- |
