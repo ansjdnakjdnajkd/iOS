@@ -18,6 +18,8 @@
 | `idb` | [idb](https://github.com/dmayer/idb) | [idb](https://github.com/dmayer/idb) | --- | --- |
 | `XSecurity` | [XSecurity](https://github.com/dmayer/idb) | --- | --- | --- |
 
+## macOS Quick Look plugin for iOS & OSX developers
+https://github.com/ealeksandrov/ProvisionQL – Generate amazing preview for `.ipa` `.app` `.appex` `.mobileprovision` `.provisionprofile`
 
 ## Jailbreak
 
