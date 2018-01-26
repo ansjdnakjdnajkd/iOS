@@ -21,6 +21,11 @@
 ## macOS Quick Look plugin for iOS & OSX developers
 https://github.com/ealeksandrov/ProvisionQL – Generate amazing preview for `.ipa` `.app` `.appex` `.mobileprovision` `.provisionprofile`
 
+## Static analyze 
+| Project/App | Swift | Objective-c |
+| --- | --- | --- |
+| [Swift Lint](https://github.com/realm/SwiftLint) | + | - |
+
 ## Jailbreak
 
 | Jailbreak check |
