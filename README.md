@@ -126,7 +126,7 @@ https://github.com/ealeksandrov/ProvisionQL – Generate amazing preview for `.i
 | --- | --- |
 | `Malware wellbeing on iOS devices` | [Slides](https://dsec.ru/upload/medialibrary/29f/29f57cef406125e9169da733e1aaf83f.pdf) |
 | `DVIA` | [Homepage](http://damnvulnerableiosapp.com/) |
-| `Dynamic analysis of iOS apps w/o Jailbreak` | [Article](https://habrahabr.ru/company/dsec/blog/339952/) & [Slides](https://dsec.ru/upload/volgactf_dyn_ios_analysis_wo_jb.pdf) |
+| `Dynamic analysis of iOS apps w/o Jailbreak` | [Article En](https://medium.com/@ansjdnakjdnajkd/dynamic-analysis-of-ios-apps-wo-jailbreak-1481ab3020d8) [Article RU](https://habrahabr.ru/company/dsec/blog/339952/) & [Slides](https://dsec.ru/upload/volgactf_dyn_ios_analysis_wo_jb.pdf) |
 | `Ro(o)tten Apples Vulnerability Heaven in the iOS Sandbox` | [Slides](http://gsec.hitb.org/materials/sg2017/D2%20-%20Adam%20Donenfeld%20-%20Ro(o)tten%20Apples%20-%20Vulnerability%20Heaven%20in%20the%20iOS%20Sandbox.pdf) |
 | `Light and Dark side of Code Instrumentation` | [Slides](http://www.data.proidea.org.pl/confidence/10edycja/materialy/prezentacje/DmitriyEvdokimov.pdf) |
 | `Комбайны безопасности для iOS и Android` | [Slides](https://dsec.ru/upload/medialibrary/e76/e76656cd8b92aa5021cb1a0662d9859f.pdf) |
