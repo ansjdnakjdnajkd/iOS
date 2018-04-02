@@ -16,7 +16,7 @@
 | `iPhoneTunnel` | [iPhoneTunnel](https://code.google.com/archive/p/iphonetunnel-mac/downloads) | --- | [iPhoneTunnel](https://code.google.com/archive/p/iphonetunnel-usbmuxconnectbyport/downloads) | --- |
 | `iRET` | [iRET](https://github.com/S3Jensen/iRET) | --- | --- | --- |
 | `idb` | [idb](https://github.com/dmayer/idb) | [idb](https://github.com/dmayer/idb) | --- | --- |
-| `XSecurity` | [XSecurity](https://github.com/dmayer/idb) | --- | --- | --- |
+| `XSecurity` | [XSecurity](https://github.com/XSecurity/XSecurity) | --- | --- | --- |
 
 ## macOS Quick Look plugin for iOS & OSX developers
 https://github.com/ealeksandrov/ProvisionQL – Generate amazing preview for `.ipa` `.app` `.appex` `.mobileprovision` `.provisionprofile`
