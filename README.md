@@ -21,6 +21,9 @@
 ## macOS Quick Look plugin for iOS & OSX developers
 https://github.com/ealeksandrov/ProvisionQL – Generate amazing preview for `.ipa` `.app` `.appex` `.mobileprovision` `.provisionprofile`
 
+## iOS / macOS obfuscation
+https://github.com/obfuscator-llvm/obfuscator/wiki – ollvm
+
 ## Static analyze 
 | Project/App | Swift | Objective-c |
 | --- | --- | --- |
