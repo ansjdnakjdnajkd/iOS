@@ -53,6 +53,23 @@ https://github.com/obfuscator-llvm/obfuscator/wiki – ollvm
 | [http://coolstar.org/publicrepo/](http://coolstar.org/publicrepo/) |
 
 
+## Little h4ck for sslpinning bypass (help in some cases when sslkillswitch useless)
+- Configure burp proxy on iOS device
+– Visit [your_proxy_adress]:[proxy_port]/mobileassistant.deb 
+– Download file and install
+  - Via iFile
+  - Via ssh like `dpkg -i path/to/mobileassistant.deb
+- Respring
+- Launch Mobile Assistant
+- Add app in bottom panel
+- Turn-on switcher next to app
+- Launch your app
+- Congrats
+
+More info [here](https://portswigger.net/burp/documentation/desktop/tools/mobile-assistant/)
+NB! in some cases you may face with lack of libraries, do not replace anything manually in iOS, it may lead to infinity loop)
+
+
 ## AppSign / Rebuild / Resign / Inject / Useful tools
 
 ![Schema](https://github.com/ansjdnakjdnajkd/iOS/blob/master/Misc/schema.png)
