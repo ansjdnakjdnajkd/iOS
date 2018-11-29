@@ -51,6 +51,7 @@ https://github.com/obfuscator-llvm/obfuscator/wiki – ollvm
 | [http://cydia.radare.org/](http://cydia.radare.org/) |
 | [http://apt.modmyi.com/](http://apt.modmyi.com/) |
 | [http://coolstar.org/publicrepo/](http://coolstar.org/publicrepo/) |
+| [http://getdelta.co/](http://getdelta.co/) < Flex3 working |
 
 
 ## Little h4ck for sslpinning bypass (help in some cases when sslkillswitch useless)
