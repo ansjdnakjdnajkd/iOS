@@ -4,6 +4,7 @@
 | --- | --- | --- | --- | --- |
 | `MobSF` | [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | --- |
 | `Plist view` | **plutil** or **Xcode** | `apt-get install libplist-utils` | [Plist Viewer](https://github.com/TingPing/plist-viewer) | **plutil** |
+| `Ghidra` | [Ghidra](https://ghidra-sre.org) | [Ghidra](https://ghidra-sre.org) | [Ghidra](https://ghidra-sre.org) | --- |
 | `Frida` | [Frida](https://www.frida.re/docs/installation/) | [Frida](https://www.frida.re/docs/installation/) | [Frida](https://www.frida.re/docs/installation/) | --- |
 | `Awesome Frida` | [Awesome Frida](https://github.com/dweinstein/awesome-frida) | --- | --- | [Awesome Frida](https://github.com/dweinstein/awesome-frida) |
 | `Objection` | [Objection](https://github.com/sensepost/objection) | [Objection](https://github.com/sensepost/objection) | [Objection](https://github.com/sensepost/objection) | [Objection](https://github.com/sensepost/objection) |
