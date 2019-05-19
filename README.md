@@ -53,6 +53,14 @@ https://github.com/obfuscator-llvm/obfuscator/wiki – ollvm
 | [http://apt.modmyi.com/](http://apt.modmyi.com/) |
 | [http://coolstar.org/publicrepo/](http://coolstar.org/publicrepo/) |
 | [http://getdelta.co/](http://getdelta.co/) < Flex3 working |
+| [http://julioverne.github.io/](http://julioverne.github.io/) |
+| [http://brunonfl.github.io/](http://brunonfl.github.io/) |
+| [http://apt.bingner.com/](http://apt.bingner.com/) |
+| [http://repo.dynastic.co//](http://repo.dynastic.co/) |
+| [http://mcapollo.github.io/Public/](http://mcapollo.github.io/Public/) |
+| [http://apt.hackcn.net/](http://apt.hackcn.net/) |
+| [http://repo.chariz.io/](http://repo.chariz.io/) |
+| [http://cydia.ichitaso.com/](http://cydia.ichitaso.com/) |
 
 
 ## Little h4ck for sslpinning bypass (help in some cases when sslkillswitch useless)
