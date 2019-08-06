@@ -101,6 +101,7 @@ NB! in some cases you may face with lack of libraries, do not replace anything m
 | --- | --- | --- |
 | `Rasticrac` | Jailbreak(+) | [Rasticrac](https://github.com/easonoutlook/Rasticrac) |
 | `Clutch` | Jailbreak(+) | [Clutch](https://github.com/KJCracks/Clutch) |
+| `bfinject` | Jailbreak(+), iOS 11-12 | [bfinject](https://github.com/BishopFox/bfinject) |
 
 ### All in one (Inject > Repack > Resign > Upload)
 
