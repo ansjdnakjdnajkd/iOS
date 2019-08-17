@@ -61,6 +61,7 @@ https://github.com/obfuscator-llvm/obfuscator/wiki – ollvm
 | [http://apt.hackcn.net/](http://apt.hackcn.net/) |
 | [http://repo.chariz.io/](http://repo.chariz.io/) |
 | [http://cydia.ichitaso.com/](http://cydia.ichitaso.com/) |
+| [https://level3tjg.github.io](https://level3tjg.github.io) < bfdecrypt (ios11/ios12)|
 
 
 ## Little h4ck for sslpinning bypass (help in some cases when sslkillswitch useless)
