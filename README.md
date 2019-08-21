@@ -56,12 +56,13 @@ https://github.com/obfuscator-llvm/obfuscator/wiki – ollvm
 | [http://julioverne.github.io/](http://julioverne.github.io/) |
 | [http://brunonfl.github.io/](http://brunonfl.github.io/) |
 | [http://apt.bingner.com/](http://apt.bingner.com/) |
-| [http://repo.dynastic.co//](http://repo.dynastic.co/) |
+| [http://repo.dynastic.co/](http://repo.dynastic.co/) |
 | [http://mcapollo.github.io/Public/](http://mcapollo.github.io/Public/) |
 | [http://apt.hackcn.net/](http://apt.hackcn.net/) |
 | [http://repo.chariz.io/](http://repo.chariz.io/) |
 | [http://cydia.ichitaso.com/](http://cydia.ichitaso.com/) |
 | [https://level3tjg.github.io](https://level3tjg.github.io) < bfdecrypt (ios11/ios12)|
+| [http://ryleyangus.com/repo](http://ryleyangus.com/repo) < Liberty Lite (beta) for JB bypas|
 
 
 ## Little h4ck for sslpinning bypass (help in some cases when sslkillswitch useless)
